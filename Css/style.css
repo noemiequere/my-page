@@ -1,0 +1,34 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Archivo+Narrow|Indie+Flower|Montserrat");
+
+
+/* Importing component files */
+@import url("Components/container.css");
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/avatar.css");
+@import url("Components/card.css");
+
+
+/* General style rules for fonts and colors */
+
+body {
+	font-family: 'Montserrat';
+	font-size: 18px;
+	margin: 0px;
+	background-color: grey);
+	background-attachment:fixed;
+	}
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+h2{
+	font-family: 'Archivo Narrow';
+	font-weight: bold;
+	color: white;
+}
+a {
+  text-decoration: none;
+}
+
